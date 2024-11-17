@@ -5,7 +5,7 @@
 
 💬 Ask me about my journey from Mining Engineering to software development and how I used Python to solve industry problems in my thesis.
 
-⚡ Fun fact: I’ve been skating since I was 7, and I love a variety of activities like sailing, cycling, beach volleyball, and snowboarding. I also have a talent for mimicking voices and sounds, which makes for some fun impersonations! Whether it's making people laugh with a sudden joke or dancing to the rhythm of life, I always bring energy and creativity to whatever I do.
+⚡ Fun fact: I’ve been skating since I was 7 and love activities like sailing, cycling, and snowboarding. I also enjoy mimicking voices and making people laugh!
 
 ## 📦 My NPM packages:
 - [basic-binary-search-tree](https://www.npmjs.com/package/basic-binary-search-tree)
