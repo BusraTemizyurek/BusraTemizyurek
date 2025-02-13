@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 👩🏻‍💻 About Me:
-🔭 I’m currently working on a mobile app to analyze the performance of motorcycle riders. On this project, I'm using TypeScript, HTML, Bootstrap, and CSS. I'm also solving LeetCode challenges to improve my data structures and algorithm skills.
+🔭 I’m currently contributing to a project that aims to create a drag-and-drop website builder with built-in blockchain integrations. I'm also solving LeetCode challenges to improve my data structures and algorithm skills.
 
 💬 Ask me about my journey from Mining Engineering to software development and how I used Python to solve industry problems in my thesis.
 
