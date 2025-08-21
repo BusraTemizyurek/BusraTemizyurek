@@ -1,11 +1,15 @@
 # Hi there 👋
 
 ## 👩🏻‍💻 About Me:
-🔭 I’m currently contributing to a project that aims to create a drag-and-drop website builder with built-in blockchain integrations. I'm also solving LeetCode challenges to improve my data structures and algorithm skills.
+🚀 I'm a full-stack software developer currently working at onchainsite.xyz, where I build scalable web applications with modern frontend frameworks and robust backend architectures. I specialize in creating intuitive user interfaces while ensuring solid server-side performance and data management.
 
-💬 Ask me about my journey from Mining Engineering to software development and how I used Python to solve industry problems in my thesis.
+🔧 I enjoy building side projects like MotoPerf (motorcycle performance tracker), Mint&Chill (NFT minter), an AI-powered product-manual chatbot, and more.
 
-⚡ Fun fact: I’ve been skating since I was 7 and love activities like sailing, cycling, and snowboarding. I also enjoy mimicking voices and making people laugh!
+🌍 Active in open source—publishing npm packages (data structures, utilities) and sharing code to give back to the community.
+
+💬 I'm passionate about writing clean, maintainable code and building applications that solve real problems. I enjoy collaborating with teams and contributing to open-source projects.
+
+⚡ Fun fact: I've been skating since I was 7 and love activities like sailing, cycling, and snowboarding.
 
 ## 📦 My NPM packages:
 - [basic-binary-search-tree](https://www.npmjs.com/package/basic-binary-search-tree)
